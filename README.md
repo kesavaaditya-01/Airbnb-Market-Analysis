@@ -1,12 +1,12 @@
 # Airbnb-Market-Analysis
 https://public.tableau.com/views/Book1_17109561781800/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
-Airbnb Market Analysis
+##Airbnb Market Analysis
 
-Project Overview
+#Project Overview
 This project focuses on analyzing Airbnb data for New York City in 2019 to understand market trends, customer preferences, and pricing dynamics. The goal is to gain actionable insights into seasonal demand patterns, room type preferences, and availability, and provide recommendations to Airbnb hosts for optimizing their listings and pricing strategies.
 
-Team Members:
+#Team Members:
 
 Yepuri Harsha Vardhan
 Amajala Sai Ram
@@ -17,13 +17,13 @@ Akshitha Gopu
 Isha Narwaria
 Sarah Fathima Barkath
 
-Skills and Tools:
+#Skills and Tools:
 Programming Languages: Python (NumPy, Pandas, Matplotlib, Seaborn, Sklearn)
 Data Visualization: Tableau, Gmplot
 Machine Learning Techniques: Label Encoding, OneHotEncoding
 Dataset: Airbnb New York 2019 from Kaggle (6.59 MB)
 
-Objectives:
+#Objectives:
 Analyze seasonal demand patterns:
 
 Provide actionable recommendations for Airbnb based on analysis.
@@ -32,7 +32,7 @@ Analyze room availability in specific locations throughout the year.
 Calculate the most utilized room type during nights.
 Enable users to book the desired room using interactive visualizations.
 
-Project Workflow
+#Project Workflow
 
 Data Collection:
 The dataset used for this project was obtained from Kaggle, which contains Airbnb listings for New York City in 2019. After collecting the data, we performed the following steps:
@@ -68,12 +68,12 @@ Minimum Nights: Pie charts showing the average minimum nights per room type.
 
 Booking Trends: Bubble charts showing the most utilized room types at night.
 
-Tableau Dashboards:
+#Tableau Dashboards:
 
 Dashboard 1: A comprehensive analysis of location pricing, room types with top reviews, and seasonal room availability.
 Dashboard 2: Visualizations on seasonal demand, price optimization, and most frequently booked room types based on reviews.
 
-Results & Insights:
+#Results & Insights:
 
 Most Preferred Room Types: Entire home/apartment room types are the most preferred by guests, followed by private rooms.
 
@@ -83,7 +83,7 @@ Seasonal Demand: Certain room types show higher availability and booking rates d
 
 Room Pricing: Price analysis revealed significant pricing outliers, particularly for minimum night stays and certain neighborhoods.
 
-Actionable Recommendations:
+#Actionable Recommendations:
 
 Increase Shared Room Availability: Shared rooms have lower availability, which presents an opportunity for Airbnb to expand its market share.
 
@@ -91,5 +91,5 @@ Dynamic Pricing Strategies: Implement dynamic pricing to incentivize bookings fo
 
 Optimize for Guest Preferences: Focus on listing more entire home/apartment types, as these are the most reviewed and preferred by guests.
 
-Conclusion:
+#Conclusion:
 This project provides valuable insights into the Airbnb market, highlighting room type preferences, seasonal demand, and pricing trends. By implementing the suggested recommendations, Airbnb hosts can optimize their listings and pricing strategies to increase bookings and improve guest satisfaction.
