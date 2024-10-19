@@ -1,7 +1,7 @@
 # Airbnb-Market-Analysis
 https://public.tableau.com/views/Book1_17109561781800/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
-##Airbnb Market Analysis
+# # Airbnb Market Analysis
 
 #Project Overview
 This project focuses on analyzing Airbnb data for New York City in 2019 to understand market trends, customer preferences, and pricing dynamics. The goal is to gain actionable insights into seasonal demand patterns, room type preferences, and availability, and provide recommendations to Airbnb hosts for optimizing their listings and pricing strategies.
