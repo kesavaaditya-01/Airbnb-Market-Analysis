@@ -71,6 +71,7 @@ Booking Trends: Bubble charts showing the most utilized room types at night.
 # Tableau Dashboards:
 
 Dashboard 1: A comprehensive analysis of location pricing, room types with top reviews, and seasonal room availability.
+
 Dashboard 2: Visualizations on seasonal demand, price optimization, and most frequently booked room types based on reviews.
 
 # Results & Insights:
